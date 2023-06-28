@@ -1,0 +1,1 @@
+Omitted "hdfs" and "scripts" folders
